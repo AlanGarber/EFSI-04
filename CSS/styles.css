@@ -1,0 +1,30 @@
+h2{
+    margin-top: 1rem;
+}
+
+.card{
+    width: 18rem; 
+    border: medium solid lightblue;
+    margin-top: 1rem;
+}
+
+.imgHori{
+    width: 15rem;
+    height: 5rem;
+    margin-right: 1rem;
+    margin-bottom: 2rem;
+}
+
+.imgVerti{
+    margin-left: 4rem;
+    margin-bottom: 2rem;
+}
+
+#marcas{
+    margin-top: 1rem;
+    border-top: 5px solid lightblue;
+}
+
+#footer{
+    background-color: rgb(48, 43, 43);
+}
